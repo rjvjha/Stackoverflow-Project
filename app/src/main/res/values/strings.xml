@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Stack overflow</string>
+
+
+    <!-- String values for activity_login -->
+    <string name="hint_text">Login to fully enjoy Stackoverflow\'s features</string>
+    <string name="button_text">Login to Stack overflow</string>
+
+    <!-- String values for activity_user_interest-->
+    <string name="submit_button">Submit</string>
+
+    <string name="trending_label">Trending</string>
+
+    <!-- String values for fragment_question -->
+    <string name="empty_list_label">No Saved questions here!</string>
+
+</resources>
